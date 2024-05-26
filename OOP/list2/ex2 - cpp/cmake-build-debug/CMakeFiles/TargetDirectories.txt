@@ -1,0 +1,3 @@
+C:/Users/wziat/CLionProjects/lista2/cmake-build-debug/CMakeFiles/lista2.dir
+C:/Users/wziat/CLionProjects/lista2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wziat/CLionProjects/lista2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
