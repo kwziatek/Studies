@@ -23,7 +23,6 @@ public class MyGridPane extends GridPane {
         this.m=m;
         this.k=k;
         this.p=p;
-        System.out.println("rwre");
         initialize(scene);
     }
     public void initialize(Scene scene){
@@ -78,6 +77,7 @@ public class MyGridPane extends GridPane {
         int count = 0;
 
         if(i < n-1 && runnables[i+1][j] != null){
+
             Color color = (Color) runnables[i+1][j].rectangle.getFill();
             total_red += color.getRed();
             total_green += color.getGreen();
